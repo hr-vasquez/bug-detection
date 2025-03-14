@@ -1,0 +1,37 @@
+CC – Cyclomatic Complexity: Measures the complexity of a program by counting the number of linearly independent paths.
+CCL – Cyclomatic Complexity of Largest Method: The cyclomatic complexity for the most complex method in the codebase.
+CCO – Cyclomatic Complexity of Overall System: A metric representing the overall cyclomatic complexity of the system or software.
+CI – Code Index: Can refer to various indices representing aspects of code quality, like length or complexity.
+CLC – Class-Level Complexity: Measures the complexity of individual classes in object-oriented code.
+CLLC – Class-Level Lines of Code: Represents the number of lines of code in a class.
+LDC – Lines of Code (Direct): Total count of the lines of code in the software, usually excluding comments and blank lines.
+LLDC – Logical Lines of Code: Lines of code that actually contribute to the logic of the program, excluding comments, whitespace, and empty lines.
+HCPL – Halstead Complexity: A metric based on the number of operators and operands in the code, used to measure software complexity.
+HDIF – Halstead Difficulty: A measure of the difficulty of understanding a software program based on Halstead's metrics.
+HEFF – Halstead Effort: Refers to the effort required to maintain the software based on Halstead’s metrics.
+HNDB – Halstead’s Number of Debugging Elements: The number of debugging operations required in the software, derived from Halstead’s metrics.
+HPL – Halstead Program Length: The total length of a program based on the number of operators and operands in the code.
+HPV – Halstead’s Volume: Represents the size of the software system calculated based on Halstead’s metrics.
+HTRP – Halstead Time to Read Program: A metric representing the time it would take to read and understand a program based on Halstead's model.
+HVOL – Halstead Volume: Volume refers to the size of the code, taking into account the number of operators and operands.
+MI – Maintainability Index: A software metric that combines cyclomatic complexity, lines of code, and Halstead metrics to estimate how maintainable the software is.
+MIMS – Method-Level Metrics: Metrics at the method level, including things like the number of parameters or lines of code per method.
+MISEI – Maintainability Index Standardized for Enterprise Integration: A specialized version of the maintainability index tailored to enterprise-level software.
+MISM – Method-Level Sizing Metric: Refers to the metrics that measure the size of a method, including lines of code or complexity.
+McCC – McCabe’s Cyclomatic Complexity: A well-known software metric used to measure the complexity of a program based on control flow.
+NL – Number of Lines: Refers to the total number of lines of code in a software project.
+NLE – Number of Logical Errors: A count of the logical errors in the codebase.
+NII – Number of Identifiers: Represents the number of unique identifiers (e.g., variable names, method names) in the software.
+NOI – Number of Operators and Identifiers: Refers to the total count of operators and identifiers in the software.
+CD – Cyclomatic Density: Measures the cyclomatic complexity relative to the size of the codebase.
+CLOC – Comment Lines of Code: The total number of lines that contain comments in the codebase.
+DLOC – Data Lines of Code: The total number of lines of code that are related to data manipulation or data-related operations.
+TCD – Total Cyclomatic Complexity Density: The cyclomatic complexity of the program divided by the total number of lines, providing a metric of complexity density.
+TCLOC – Total Lines of Code: The total number of lines of code in the project, typically used to calculate other metrics.
+LLOC – Logical Lines of Code: The number of lines that contain actual program logic (excluding blank and comment lines).
+LOC – Lines of Code: Total lines of code in a software system, used to measure its size.
+NOS – Number of Statements: The number of statements (lines of code) in a software system.
+NUMPAR – Number of Parameters: The count of parameters used in methods/functions throughout the software.
+TLLOC – Total Logical Lines of Code: The total number of logical lines in the system, excluding comments and blank lines.
+TLOC – Total Lines of Code: Similar to LOC, this refers to the total number of lines in the project, typically used for general size metrics.
+TNOS – Total Number of Statements: The total number of executable statements in the codebase.
