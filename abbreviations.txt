@@ -1,11 +1,11 @@
-CC – Cyclomatic Complexity: Measures the complexity of a program by counting the number of linearly independent paths.
-CCL – Cyclomatic Complexity of Largest Method: The cyclomatic complexity for the most complex method in the codebase.
-CCO – Cyclomatic Complexity of Overall System: A metric representing the overall cyclomatic complexity of the system or software.
-CI – Code Index: Can refer to various indices representing aspects of code quality, like length or complexity.
-CLC – Class-Level Complexity: Measures the complexity of individual classes in object-oriented code.
-CLLC – Class-Level Lines of Code: Represents the number of lines of code in a class.
-LDC – Lines of Code (Direct): Total count of the lines of code in the software, usually excluding comments and blank lines.
-LLDC – Logical Lines of Code: Lines of code that actually contribute to the logic of the program, excluding comments, whitespace, and empty lines.
+CC - Clone Coverage: Percentage of code covered by clones.
+CCL - Clone Classes: Groups of similar or identical code fragments.
+CCO - Clone Complexity: Complexity level of cloned code.
+CI - Clone Instances: Individual occurrences of duplicated code.
+CLC - Clone Line Coverage: Percentage of lines involved in clones.
+CLLC - Clone Lines of Code: Total number of cloned lines.
+LDC - Lines of Duplicated Code: Total duplicated lines in the codebase.
+LLDC - Logical Lines of Duplicated Code: Duplicated lines excluding comments and blank lines.
 HCPL – Halstead Complexity: A metric based on the number of operators and operands in the code, used to measure software complexity.
 HDIF – Halstead Difficulty: A measure of the difficulty of understanding a software program based on Halstead's metrics.
 HEFF – Halstead Effort: Refers to the effort required to maintain the software based on Halstead’s metrics.
